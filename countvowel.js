@@ -9,5 +9,5 @@ const countVowels = function(str) {
     return count;
 };
 
-// Example usage
-console.log(countVowels("Hello World")); // Output: 3
+
+console.log(countVowels("Hello World")); 
